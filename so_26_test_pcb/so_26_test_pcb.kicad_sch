@@ -2,8 +2,14 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid d7e29699-2055-48d0-8b93-cab729897bd7)
+	(uuid "d7e29699-2055-48d0-8b93-cab729897bd7")
 	(paper "A4")
+	(title_block
+		(title "so_26_test_pcb")
+		(date "2026-01-28")
+		(rev "1")
+		(company "Armin Jahanshahi")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
